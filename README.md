@@ -30,7 +30,10 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 ## Soul of Design :sunny:
 
 - [Word Art](https://wordart.com/) - WordArt.com is an online word cloud art creator that enables you to create amazing and unique word cloud art with ease.
-
+- [Weave Silk](http://weavesilk.com/) - 酷炫光线绘图
+- [Geektyper](http://geektyper.com/) - HACK LIKE A PROGRAMMER IN MOVIES AND GAMES!
+- [Bigjpg](http://bigjpg.com/) - AI人工智能图片放大
+- [Pixel Map](https://pixelmap.amcharts.com/) - 地图像素标记生成器
 
 
 ## License
